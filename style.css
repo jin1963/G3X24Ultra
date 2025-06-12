@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #0f0f23, #1a1a2e);
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+input, select, button {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+}
+
+button {
+    background-color: orange;
+    color: black;
+    cursor: pointer;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.logo {
+    width: 150px;
+    margin-bottom: 20px;
+}
